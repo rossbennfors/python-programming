@@ -2,7 +2,8 @@
 Python program you read and calculate various averages, highest value etc from CSV and to read images (specific to ones attached)
 
 # Data
-3 sets of pollution data: - Harlington - Marylebone Road - North Kensington
+3 sets of pollution data: 
+- Harlington - Marylebone Road - North Kensington
 map.png: - map of roads (red) and pavements (cyan)
 map-red-pixels.png/map-cyan-pixels.png: - function in intellegence.py used to find all coloured pixels and make a new map of respective pixels 
 cc-top.png: - image of the two largest connected components (red pixels)
